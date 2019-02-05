@@ -1,4 +1,4 @@
-# Patirck Jasinski #
+# Patrick Jasinski #
 
 ## What is your developer journey so far? What brought you to this major, and why did you take this class? ##
 I've been programming/using computers since I was a child. I've been using Linux on and off since middle school and really enjoy programming low level hardware stuff. I helped write a driver for the Gamecube Controller Adapter. I've written Java and C++ applications too. I've done almost nothing with networking and web development at all. Most of my interest have always been at the Operating System level. I took this class to get the expierence with web development, specifically with stuff like AWS, Node.js and technologies like that. I have a pretty big gaping whole in my knowledge of those technolgies that you can't escape now, hopefully we cover some of that stuff
