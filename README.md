@@ -8,3 +8,6 @@ In terms of career, I actually have already accepted a postiion at Oracle as a I
 
 ## What programming expierence do you have? Do you have any web experience? ##
 I have almost no web expierence besides understanding basic HTML stuff. CSS is like gibberish to me also. Everytime I've tried to get into web, I've lost motivation. Hopefully this class gives me the kick in the butt I need to finally learn how to build a decent website to be hosted.
+
+
+https://www.codecademy.com/users/patolento/achievements
